@@ -5,5 +5,14 @@
     <link>https://nurdiloyd.github.io/ghost-engine-releases/appcast.xml</link>
     <description>Builds of Ghost Engine, newest first.</description>
     <language>en</language>
+    <item>
+      <title>Ghost Engine 843</title>
+      <pubDate>Sun, 25 Oct 2026 01:52:27 GMT</pubDate>
+      <link>https://github.com/nurdiloyd/ghost-engine-releases/releases/tag/v843</link>
+      <sparkle:version>843</sparkle:version>
+      <sparkle:shortVersionString>843</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/nurdiloyd/ghost-engine-releases/releases/download/v843/GhostEngine-843.zip" sparkle:edSignature="s3yXCx6XZMwX023Ty5+3HoDBNgkt2/CFHiT8E6yQipqu8cgxxa+uKTloA+R8e0GyJR9Js53mCRSJDYZhL81mDw==" length="13552364" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
