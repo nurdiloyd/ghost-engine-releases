@@ -12,7 +12,7 @@
       <sparkle:version>844</sparkle:version>
       <sparkle:shortVersionString>844</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Test build for automatic updates: same as 843, published to check that 843 updates itself.]]></description>
+      <description><![CDATA[<p>Ghost Engine 844, for macOS 26 and later on Apple silicon and Intel Macs.</p><ul><li>The download now unzips to <b>Ghost Engine.app</b>, and an installed copy keeps that name through every update.</li><li>To check for updates yourself, open the settings with the Adjust button in Home's top-right corner and press <b>Check for Updates</b> under Updates.</li><li>The licenses of the libraries, fonts and icons Ghost Engine includes are under <b>Credits</b> in the same settings.</li></ul><p>Requires the Xcode Command Line Tools and your own Anthropic API key.</p>]]></description>
       <enclosure url="https://github.com/nurdiloyd/ghost-engine-releases/releases/download/v844/GhostEngine-844.zip" sparkle:edSignature="sK81MNfugUqqYMe9FlWU+FE+P6GataUGW6WTZcVlT/2BtJx/jeRy01mg1wY6pvr/M9rqbtBwyI4DvvqyfcF8BA==" length="13536042" type="application/octet-stream"/>
     </item>
     <item>
