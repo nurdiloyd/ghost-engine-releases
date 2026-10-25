@@ -6,6 +6,16 @@
     <description>Builds of Ghost Engine, newest first.</description>
     <language>en</language>
     <item>
+      <title>Ghost Engine 844</title>
+      <pubDate>Sun, 25 Oct 2026 01:56:23 GMT</pubDate>
+      <link>https://github.com/nurdiloyd/ghost-engine-releases/releases/tag/v844</link>
+      <sparkle:version>844</sparkle:version>
+      <sparkle:shortVersionString>844</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Test build for automatic updates: same as 843, published to check that 843 updates itself.]]></description>
+      <enclosure url="https://github.com/nurdiloyd/ghost-engine-releases/releases/download/v844/GhostEngine-844.zip" sparkle:edSignature="sK81MNfugUqqYMe9FlWU+FE+P6GataUGW6WTZcVlT/2BtJx/jeRy01mg1wY6pvr/M9rqbtBwyI4DvvqyfcF8BA==" length="13536042" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ghost Engine 843</title>
       <pubDate>Sun, 25 Oct 2026 01:52:27 GMT</pubDate>
       <link>https://github.com/nurdiloyd/ghost-engine-releases/releases/tag/v843</link>
